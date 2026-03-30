@@ -1,17 +1,14 @@
-<h1 align="center">Riya Thorat</h1>
+<!-- NAME WITH ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Riya+Thorat;MERN+Stack+Developer;Data+Science+Enthusiast" />
+</h1>
 
+<!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFw4qbGz_CCNA/profile-displayphoto-scale_200_200/B4DZvGN0vqIgAc-/0/1768557073203?e=2147483647&v=beta&t=sPGjNN5DfwsB2rvggS6wjlAxX8jN_3MR4odP4rSeY3c" width="150" style="border-radius:50%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFw4qbGz_CCNA/profile-displayphoto-scale_200_200/B4DZvGN0vqIgAc-/0/1768557073203?e=2147483647&v=beta&t=sPGjNN5DfwsB2rvggS6wjlAxX8jN_3MR4odP4rSeY3c" width="150" />
 </p>
 
-<p align="center">
-  MERN Stack Developer • Data Science Enthusiast
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&size=24&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+Data+Science+%26+ML;Python+%7C+C%2B%2B;Clean+Code+%7C+Real+Projects" />
-</p>
-
+<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thoratriya3&label=Profile%20Views&color=0EA5E9&style=flat" />
 </p>
