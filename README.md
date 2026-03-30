@@ -1,5 +1,5 @@
-<!-- HEADER -->
 <h1 align="center">Riya Thorat</h1>
+
 <p align="center">
   MERN Stack Developer • Data Science Enthusiast
 </p>
@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0EA5E9&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thoratriya3&label=Profile%20Views&color=0EA5E9&style=flat" />
 </p>
 
 ---
 
 ## About
 
-- MERN Stack Developer focused on building scalable and efficient applications  
-- Strong foundation in Data Structures and Problem Solving  
-- Exploring Data Science, Machine Learning, and analytics  
-- Passionate about clean code and real-world projects  
+- MERN Stack Developer focused on scalable applications  
+- Strong in Data Structures and Problem Solving  
+- Exploring Data Science and Machine Learning  
+- Passionate about real-world projects  
 
 ---
 
@@ -34,12 +34,12 @@
 ## GitHub Insights
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thoratriya3&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thoratriya3&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoratriya3&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -47,11 +47,11 @@
 ## Selected Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=github_dark" />
+  <a href="https://github.com/thoratriya3/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoratriya3&repo=project1&theme=github_dark" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=github_dark" />
+  <a href="https://github.com/thoratriya3/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoratriya3&repo=project2&theme=github_dark" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thoratriya3&theme=flat&no-frame=true&margin-w=8" />
 </p>
 
 ---
@@ -68,14 +68,13 @@
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/riya-thorat-309055314">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=90&section=footer"/>
 </p>
