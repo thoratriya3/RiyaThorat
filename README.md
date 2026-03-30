@@ -1,6 +1,10 @@
 <h1 align="center">Riya Thorat</h1>
 
 <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFw4qbGz_CCNA/profile-displayphoto-scale_200_200/B4DZvGN0vqIgAc-/0/1768557073203?e=2147483647&v=beta&t=sPGjNN5DfwsB2rvggS6wjlAxX8jN_3MR4odP4rSeY3c" width="150" style="border-radius:50%" />
+</p>
+
+<p align="center">
   MERN Stack Developer • Data Science Enthusiast
 </p>
 
